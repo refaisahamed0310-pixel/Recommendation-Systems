@@ -57,9 +57,6 @@ Recommendation-Systems/
 ├── Vehicle-Company-Recommendation/
 │   └── vehicle_company_recommendation.ipynb
 │
-├── Vehicle-Ratings-Dataset-Generator/
-│   └── vehicle_ratings_dataset_generator.ipynb
-│
 ├── .gitignore
 ├── README.md
 └── requirements.txt
