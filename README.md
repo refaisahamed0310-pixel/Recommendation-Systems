@@ -37,15 +37,33 @@ The notebooks use Pandas and Scikit-learn to prepare data, calculate similarity 
 ## Repository Structure
 
 ```text
+## Repository Structure
+
+```text
 Recommendation-Systems/
-├── Content-Based-Movie-Recommendation/
-├── Movie-Collaborative-Recommendation/
+│
 ├── Book-Recommendation/
+│   └── book_recommendation.ipynb
+│
+├── Content-Based-Movie-Recommendation/
+│   └── content_based_movie_recommendation.ipynb
+│
 ├── Course-Trainer-Recommendation/
+│   └── course_trainer_recommendation.ipynb
+│
+├── Movie-Collaborative-Recommendation/
+│   └── movie_collaborative_recommendation.ipynb
+│
 ├── Vehicle-Company-Recommendation/
+│   └── vehicle_company_recommendation.ipynb
+│
 ├── Vehicle-Ratings-Dataset-Generator/
+│   └── vehicle_ratings_dataset_generator.ipynb
+│
+├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 ```
 
 ## Getting Started
