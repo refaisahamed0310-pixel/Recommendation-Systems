@@ -108,8 +108,8 @@ These notebooks are learning and portfolio projects. Some recommendation example
 
 Computer Science Graduate | Python Developer | AI & Machine Learning | Data Science | Backend Development
 
-- **GitHub:** https://github.com/YOUR-USERNAME
-- **LinkedIn:** https://www.linkedin.com/in/ahamed-refai-s-6775b2310
+- **GitHub:** [refaisahamed0310-pixel](https://github.com/refaisahamed0310-pixel)
+- **LinkedIn:** [Ahamed Refai S](https://www.linkedin.com/in/ahamed-refai-s-6775b2310)
 
 ---
 
